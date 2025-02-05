@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "displayName": "Entity Events for DOTS",
   "description": "A simple DOTS event system using source generators.",
-  "unity": "6000.0.31f1",
+  "unity": "6.0.0",
   "author": {
     "name": "Lukas Frahm",
     "url": "https://github.com/lufa3014"
